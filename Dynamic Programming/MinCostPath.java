@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class MinCostPath{
     static int minCostPath(int m,int n,int cost[][]){
         int res[][] = new int[m][n];
